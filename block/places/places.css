@@ -1,0 +1,16 @@
+.places {
+  max-width: 984px; /* при значении в px, плавнее сжимается контейнер */
+  margin: 92px auto;
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .places {
+    margin: 88px auto 90px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .places {
+    margin: 64px auto 66px;
+  }
+}
