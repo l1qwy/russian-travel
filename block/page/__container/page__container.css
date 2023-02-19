@@ -12,12 +12,12 @@
 
 @media (min-width: 768px) and (max-width: 1023px) {
   .page__container {
-    padding: 28px 0 24px
+    padding: 28px 0 24px;
   }
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
   .page__container {
-    padding: 28px 0 24px
+    padding: 28px 0 24px;
   }
 }
